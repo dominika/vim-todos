@@ -17,5 +17,5 @@ Active in all files that have `todo` in their name.
 ### Default rotation mappings
 
 Active on a line with a character from our states list.
-    = upward rotation
-    - downward rotation
+    `=` upward rotation
+    `-` downward rotation
