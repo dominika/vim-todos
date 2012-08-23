@@ -6,8 +6,6 @@ if exists('g:loaded_vimtodos')
 endif
 let g:loaded_vimtodos= 1
 
-autocmd BufRead,BufNewFile *.todo* set filetype=todo
-
 let g:TODOStates=['-','*','+']
 
 function! TODOMarkAs(direction)
