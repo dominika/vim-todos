@@ -2,8 +2,6 @@ if exists("b:current_syntax")
   finish
 endif
 
-setlocal background=light
-
 hi todoTitle guibg=#343332 guifg=#c6c4c4
 hi todoSubTitle guibg=#939392 guifg=#343332
 hi todoDone guibg=#d5f0c8 guifg=#799244
