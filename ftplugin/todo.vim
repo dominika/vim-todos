@@ -1,2 +1,2 @@
-nnoremap <silent> = :call TODOMarkAs('up')
-nnoremap <silent> - :call TODOMarkAs('down')
+nnoremap <silent> + :call TODOMarkAs('up')
+nnoremap <silent> _ :call TODOMarkAs('down')
